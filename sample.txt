@@ -1,0 +1,2299 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Integral University Admission 2022: Application Form, Dates, Eligibility
+</title><meta charset="utf-8" /><meta name="google-site-verification" content="2NrPrLK3ImxKHop7DJdR49p5H-guXRblain1rkiVZXs" /><meta name="resource-type" content="document" /><meta name="robots" content="all" /><meta name="robots" content="index, follow" /><meta name="YahooSeeker" content="INDEX, FOLLOW" /><meta name="msnbot" content="INDEX, FOLLOW" /><meta name="googlebot" content="INDEX, FOLLOW" /><meta name="allow-search" content="yes" /><meta name="revisit-after" content="7 days" /><meta name="distribution" content="Global" /><meta name="rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="description" content="Integral University, a seat of educational excellence, is a premier university for BTech, MBA, MCA, BArch, BCA, BSc, BCom, BBA, BA, MBBS, GNM, BPT, MSc, BSc, BEd, B Pharma, D Pharma, MTech, PhD, MPharm, BArch, BFA, MA, LLB, BMLT, BRIT, MEdu, MPT and more with a friendly enviornment for students Admission 2021 lucknow, Uttar pradesh, India" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="Admission 2022, New Admission, Admission in Lucknow, Best University, Best University in india, Best University in lucknow, Kursi road, Dasauli, Top 10 University, Top University in Lucknow, Admission in Integral University Lucknow, B.Tech Computer Science Engineering, B.Tech Admission 2022, B.Tech Civil Engineering, B.Tech Electrical Engineering
+                                       B.Tech Biotechnology,B.Tech Mechanical Engineering, BCA, MCA, MBA, B.Com(Hons), B.Pth, BBA, B.Sc(Hon&#39;s),
+                                      D.Pharm, Civil Engineering, Electrical Engineering, Mechanical Engineering,Electronics Engineering,
+                                       Undergraduate, Post Graduation, Biomedical Engineering" />
+
+     <!-- Bootstrap and Font Awesome css -->
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css" />
+    <!-- Bootstrap end and Font Awesome css -->
+    <link rel="stylesheet" href="font-awesome/4.3.0/css/font-awesome.min.css" /><link rel="stylesheet" href="bootstrap/3.3.2/css/bootstrap.min.css" /><link href="css/animate.css" rel="stylesheet" /><link href="css/style.violet.css" rel="stylesheet" /><link href="css/custom.css" rel="stylesheet" />
+    
+    
+    <!-- owl carousel css -->
+    <link href="css/owl.carousel.css" rel="stylesheet" /><link href="css/owl.theme.css" rel="stylesheet" />
+      <!-- <link rel="stylesheet" href="WEBNAR/css/style1.css" />-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3PVPMEJRMX"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-3PVPMEJRMX');
+</script>
+
+<script>
+    msg = "Integral University Admission 2022: Application Form, Dates, Eligibility";
+
+    msg = "..." + msg; pos = 0;
+    function scrollMSG() {
+        document.title = msg.substring(pos, msg.length) + msg.substring(0, pos);
+        pos++;
+        if (pos > msg.length) pos = 0
+        window.setTimeout("scrollMSG()", 200);
+    }
+    scrollMSG();
+</script>
+     <script src="WEBNAR/jS/jquery.min.js"></script>
+    <script src="js/tether.min.js"></script>
+    <script src="WEBNAR/jS/bootstrap.min.js"></script>
+    <script src="WEBNAR/jS/script1.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+    <link href="css/style.violet.css" rel="stylesheet" />
+    
+    <!-- Css animations  -->
+ 
+    <!-- Favicon and apple touch icons-->
+    <link rel="shortcut icon" href="../img/logo_circle.PNG" type="image/x-icon" /><link rel="apple-touch-icon" href="../img/apple-touch-icon.png" />
+    <!--zoom_master start css-->
+    <link href="css/zoom_master.css" rel="stylesheet" />
+     <!--zoom_master end css-->
+    <link href="About/leadership/css/Leadershipstyle.css" rel="stylesheet" />
+  
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js" ></script>
+
+
+ <style>
+     .marquee {
+         height: 25px;
+         text-align: center;
+         position: relative;
+         overflow: hidden;
+           
+     }
+
+         .marquee div {
+             display: block;
+             width: 200%;
+             height: 30px;
+             position: absolute;
+             overflow: hidden;
+             animation: marquee 5s linear infinite;
+         }
+
+         .marquee span {
+             float: left;
+             width:100%;
+            
+         }
+     
+         .marquee:hover div {
+             animation-play-state: paused;
+         }
+
+     @keyframes marquee {
+         0% {
+             left: 0;
+         }
+
+         100% {
+             left: -100%;
+         }
+     }
+ </style>
+    <style>
+        blink, .blink {
+            -webkit-animation: blink 1s step-end infinite;
+            -moz-animation: blink 1s step-end infinite;
+            -o-animation: blink 1s step-end infinite;
+            animation: blink 1s step-end infinite;
+            font-family: serif;
+        }
+
+        @-webkit-keyframes blink {
+            67% {
+                opacity: 0
+            }
+        }
+
+        @-moz-keyframes blink {
+            67% {
+                opacity: 0
+            }
+        }
+
+        @-o-keyframes blink {
+            67% {
+                opacity: 0
+            }
+        }
+
+        @keyframes blink {
+            67% {
+                opacity: 0
+            }
+        }
+    </style>
+   
+    
+    <!--Meta start Tag Facebook-->
+    <meta property="og:site_name" content="INTEGRAL UNIVERSITY" />
+    <meta property="og:title" content="INTEGRAL UNIVERSITY" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Integral University, a seat of educational excellence, is a premier university in Lucknow, the capital city of the state of Uttar Pradesh, India. It was established under the Act Number 9 of 2004 by the State Government. The University is duly approved by the University Grants Commission (UGC) under sections 2(f) and 12B of the UGC Act, 1956, Medical Council of India, Pharmacy Council of India, Indian Nursing Council, Council of Architecture, Bar Council of India, Indian Association of Physiotherapists, National Council for Teacher Education, UP State Medical Faculty . Integral University is accredited by NAAC and recognised as a Scientific & Industrial Research Organisation (SIRO) by the Department of Scientific & Industrial Research, Ministry of Science & Technology, Government of India." />
+    <meta property="og:url" content="https://iul.ac.in" />
+    <meta property="og:image:height" content="450" />
+    <meta property="og:image:width" content="397" />
+    <meta property="og:image" content="https://iul.ac.in/img/Globaluniversity.jpg" />
+    <div id='hidden' style='display: none;'>
+        <img src="https://iul.ac.in/img/Globaluniversity.jpg" />
+    </div>
+    <!--Meta End Tag Facebook-->
+    <!--Meta start Tag twitter-->
+    <meta name="twitter:title" content="INTEGRAL UNIVERSITY" />
+    <meta name="twitter:description" content="Integral University, a seat of educational excellence, is a premier university in Lucknow, the capital city of the state of Uttar Pradesh, India. It was established under the Act Number 9 of 2004 by the State Government. The University is duly approved by the University Grants Commission (UGC) under sections 2(f) and 12B of the UGC Act, 1956, Medical Council of India, Pharmacy Council of India, Indian Nursing Council, Council of Architecture, Bar Council of India, Indian Association of Physiotherapists, National Council for Teacher Education, UP State Medical Faculty . Integral University is accredited by NAAC and recognised as a Scientific & Industrial Research Organisation (SIRO) by the Department of Scientific & Industrial Research, Ministry of Science & Technology, Government of India." />
+    <meta name="twitter:image" content="https://iul.ac.in/img/Globaluniversity.jpg" />
+    <meta property="og:url" content="https://iul.ac.in" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:domain" content="iul.ac.in" />
+    <!--Meta End Tag twitter-->
+    <link rel="stylesheet" href="WEBNAR/css/style1.css" />
+    <link href="css/swc.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="css/owl.theme.min.css" />
+    
+
+    
+
+    
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var DateTime = new Date();
+            var strHours = DateTime.getHours();
+            var strMinutes = DateTime.getMinutes();
+            var strSeconds = DateTime.getSeconds();
+            // alert(strHours + ":" + strMinutes + ":" + strSeconds);
+            var obj = document.getElementById("hid");
+            if (strHours >= 6 && strHours <= 17) {
+                obj.className = ['bar background-image-fixed-23 no-mb color-white text-center img-responsive'];
+                var images = ['bar background-image-fixed-23 no-mb color-white text-center img-responsive'];
+                //'bar background-image-fixed-24 no-mb color-white text-center img-responsive',
+                setInterval(function () {
+                    var url = images[Math.floor(Math.random() * images.length)];
+                    var ss = document.body.style.backgroundImage = url;  //'url (' + url + ')';
+                    obj.className = ss;
+
+                }, 10000);
+
+            }
+            else {
+                obj.className = ['bar background-image-fixed-22 no-mb color-white text-center img-responsive'];
+                var images = ['bar background-image-fixed-22 no-mb color-white text-center img-responsive'];
+                //'bar background-image-fixed-21 no-mb color-white text-center img-responsive', 
+                setInterval(function () {
+                    var url = images[Math.floor(Math.random() * images.length)];
+                    var ss = document.body.style.backgroundImage = url;  //'url (' + url + ')';
+                    obj.className = ss;
+
+                }, 10000);
+
+            }
+
+        });
+    </script>
+
+    
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#myModal").modal('show');
+        });
+    </script>
+   <style>
+        #hid {
+            height:calc(100vh - 107px);
+            display:table;
+            width:100%;
+        }
+        #hid .container {
+            display:table-cell;
+            height:100%;
+            width:100%;
+            vertical-align:middle;
+        }
+        
+    </style>
+
+    
+
+    
+
+    
+    <script src="js/owl.carousel.min.js"></script>
+    
+    
+    <script src="WEBNAR/jS/script1.js"></script>
+</head>
+<body>
+    <script type="text/javascript">
+        var npf_d = 'https://admission.iul.ac.in';
+        var npf_c = '206'; var npf_m = '1';
+        var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+        s.src = "https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s);
+    </script>
+    <div class="npf_chatbots" data-w="198869aca99e4aedb920ade62bfbcc31" style="display:none;"></div>
+    <div class="scroll-to-top scroll-to-target thm-bg-clr" onclick="topFunction()" id="myBtns" data-target="html" >
+        <span class="fa fa-angle-up"></span>
+    </div>
+    <form method="post" action="./" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987" />
+    <div id="all">
+             <!-- *** TOP ***-->
+               <div id="top">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-2 col-xs-2   contact">
+                                    <div class="contacts">
+                                        <p class="hidden-sm hidden-xs"><a href="tel:+919335177775" style="color: white;"><i class="fa fa-phone"></i>Call</a> | <a href="Contactus.aspx" style="color: white;">Contact</a> </p>
+                                        <p class="hidden-md hidden-lg"><a href="tel:+919335177775" style="color: white;"><i class="fa fa-phone"></i>Call</a> |<a href="Contactus.aspx" style="color: white;">Contact</a></p>
+                                    </div>
+                                </div>
+                                <div class="col-md-5 col-xs-6" style="text-align: center;">
+                                    <div class="hidden-sm hidden-xs marquee">
+                                         <div>
+                                            
+                                            <span><b><a href="https://iul.ac.in/IIRF_2022_ranks_the_tepartments_of_Law_and_Architecture.aspx" style="color: coral;" target="_blank"> IIRF 2022 ranks the departments of Law and Architecture among the top in the State and the Country</a></b></span>
+                                        </div>
+                                    </div>
+                                    <div class="hidden-md hidden-lg text-uppercase">
+                                          <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                            <div class="carousel-inner">
+                                               <div class="marquee">
+                                                <div class="item active">
+                                                    <span data-wow-duration="1.1s" style="font-size: 10px; font-family: serif;"><a href="https://iul.ac.in/IIRF_2022_ranks_the_tepartments_of_Law_and_Architecture.aspx" style="color: coral!important;" target="_blank">IIRF 2022 ranks the departments of Law and Architecture among the top in the State and the Country</a></span>
+                                                 </div>
+                                                </div>
+                                              
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                              
+                                <div class="col-md-5 col-xs-4">
+                                    <div  class="DesktopViewsocial">
+                                    <div class="social">
+                                        <a href="https://www.facebook.com/integralunilko/" target="_blank" class="external facebook" data-animate-hover="pulse" title="facebook"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://instagram.com/integralunilko_official?igshid=e8ra2o9tnrfc" target="_blank" class="external instagram" data-animate-hover="pulse" title="Instagram"><i class="fa fa-instagram"></i></a>
+                                        <a href="https://twitter.com/IntegralUnilko" target="_blank" class="external twitter" data-animate-hover="pulse" title="twitter"><i class="fa fa-twitter"></i></a>
+                                        <a href="https://m.youtube.com/channel/UCjCK9tsNN_vEY3XW2C8L7Dw" target="_blank" class="external youtube" data-animate-hover="pulse" title="youtube"><i class="fa fa-youtube"></i></a>
+                                        <a href="https://ilizone.iul.ac.in/ " target="_blank" class="external youtube" data-animate-hover="pulse" title="Integral Learning Initiative">
+                                            <img src="https://iul.ac.in/img/ili.jpg" style="height: 17px; line-height: 17px;" />
+                                        </a>
+                                    </div>
+                                    <div class="login">
+                                        
+                                        <a href="https://iul.ac.in/Registration.aspx"><i class="fa fa-send"></i><span class="hidden-xs text-uppercase">REGISTER YOUR INTEREST</span></a>
+                                    </div>
+                                    </div>
+                                    <div  class="MobileViewsocial">
+                                          <div class="social">
+                                            <a href="https://www.facebook.com/integralunilko/" target="_blank" class="external facebook" data-animate-hover="pulse" title="facebook"><i class="fa fa-facebook"></i></a>
+                                            <a href="https://instagram.com/integralunilko_official?igshid=e8ra2o9tnrfc" target="_blank" class="external instagram" data-animate-hover="pulse" title="Instagram"><i class="fa fa-instagram"></i></a>
+                                            <a href="https://twitter.com/IntegralUnilko" target="_blank" class="external twitter" data-animate-hover="pulse" title="twitter"><i class="fa fa-twitter"></i></a>
+                                          </div>
+                                         <div class="social">
+                                            <a href="https://m.youtube.com/channel/UCjCK9tsNN_vEY3XW2C8L7Dw" target="_blank" class="external youtube" data-animate-hover="pulse" title="youtube"><i class="fa fa-youtube"></i></a>
+                                            <a href="https://ilizone.iul.ac.in/ " target="_blank" class="external youtube" data-animate-hover="pulse" title="Integral Learning Initiative">
+                                                <img src="https://iul.ac.in/img/ili.jpg" style="height: 17px; line-height: 17px;" />
+                                            </a>
+                                              <a href="https://iul.ac.in/Registration.aspx"><i class="fa fa-send"></i><span class="hidden-xs text-uppercase">REGISTER YOUR INTEREST</span></a>
+                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                 </div>
+            <!-- *** TOP END *** -->
+         
+            <!-- *** NAVBAR *** -->
+            <div class="navbar-affixed-top" data-spy="affix" data-offset-top="200" ">
+                <div class="navbar navbar-default yamm" role="navigation" id="navbar">
+                    <div class="container" style="width:100%">
+                        <div class="navbar-header" >
+                            <a class="navbar-brand home" href="index.aspx">
+                                    <h1 class="hidden-xs hidden-sm" style="font-family:Square721 BdEx BT; font-size:28px; margin-top:-7px; color:#450052;">
+                                    <img src="img/IntegralUniversityLogo.jpg"/></h1>
+                                    <h1 class="visible-xs visible-sm" style="font-family:Square721 BdEx BT; font-size:22px; margin-top:-9px; color:#450052;">
+                                    <img src="img/IntegralUniversityLogo.jpg"/></h1>
+
+                                
+                                
+                                
+                            </a>
+                            <div class="navbar-buttons">
+                                <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <i class="fa fa-align-justify"></i>
+                                </button>
+                            </div>
+                        </div>
+
+                         <div class="collapse navbar-collapse" id="navigation" >
+                             <ul class="nav navbar-nav navbar-right">
+                                     
+                              
+                                      <li class="dropdown use-yamm yamm-fw">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" >About<b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="yamm-content">
+                                                <div class="row">
+                                                      <div class="col-sm-4">
+                                                        <img src="img/aboutusimage.jpeg" class="img-responsive hidden-xs" alt="" />
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <h5>Know all about us</h5>
+                                                        <ul>
+                                                            <li><a style="text-transform:capitalize" href="About/Overview/Overview.aspx">OverView</a></li>
+                                                            <li><a style="text-transform:capitalize"  href="About/Overview/Visionandmission.aspx">Vision, Mission  &amp; Objectives</a></li>
+                                                            <li><a style="text-transform:capitalize" href="About/leadership/Chancellor.aspx">Leadership</a></li> 
+                                                        </ul>
+                                                         </div>
+                                                     <div class="col-sm-4">
+                                                        <h4></h4>
+                                                         &nbsp;
+                                                        <ul>
+                                                            
+                                                            <li><a style="text-transform:capitalize" href="achievements.aspx">Awards & Achievements</a></li>
+                                                             <li><a style="text-transform:capitalize" href='/AdmissionInfo/Vertual_Tour.aspx#target'>Campus Virtual Tour</a></li>
+                                                            
+                                                        </ul>
+                                                    </div>
+                                                 
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                   <li class="dropdown use-yamm yamm-fw">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Admission<b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="yamm-content">
+                                                <div class="row">
+                                               <div class="col-sm-3">
+                                                    <img src='/AdmissionInfo/images/Admission1.jpg' class="img-responsive hidden-xs" alt="Admission" />
+                                                     </div>
+                                                    <div class="col-sm-3">
+                                                         
+                                                          <h5><a href='/AdmissionInfo/Index.aspx'>Home</a></h5>
+                                                         
+                                                        <h5><a href='/AdmissionInfo/Admission_Overview.aspx#target'>Admission Overview</a></h5>
+                                                          <h5><a href='/AdmissionInfo/Admission_Criteria.aspx#target'>Admission Criteria</a></h5>
+                                                         <h5><a href='/AdmissionInfo/Co_Branded_Programs.aspx#target'>Industry Oriented Programs</a></h5>
+                              
+                                                          <h5><a href='/AdmissionInfo/Fee_Payment_Options.aspx#target'>Fee Payment Options</a></h5>
+                                                 <h5><a href='/AdmissionInfo/Vertual_Tour.aspx#target'>Virtual Tour</a></h5>
+                                                         <h5><a href='/AdmissionInfo/FAQ.aspx#target'>FAQs</a></h5>
+                                                      
+
+
+                                                    </div>
+                                                    <div class="col-sm-3">
+                                                       
+                                                          <h5><a href='https://iul.ac.in/Admissioninfointernational/IndexInt.aspx'>International Admission</a></h5>
+                                                         <h5><a href='/AdmissionInfo/FeeInd.aspx'>Programs & Fee Structure</a></h5>
+                                                         <h5><a href='/AdmissionInfo/Transport_Facility.aspx#target'>Transport Facility</a></h5>
+                                                         <h5><a href='/AdmissionInfo/Hostel_Facility.aspx#target'>Hostel Facility</a></h5>
+                                                         <h5><a href='/AdmissionInfo/Integral_University_Scholarships_Schemes.aspx#target'>Scholarships</a></h5>
+                                                         <h5><a href="https://iul.ac.in/PDF/Prospectus_2021-22.pdf">University Prospectus</a></h5>
+                                                         <h5><a href="https://iul.ac.in/AdmissionInfo/Downloadbrochure.aspx">University Brochure</a></h5>
+                                                          <h5><a href='/AdmissionInfo/Contact.aspx#target'>Get in Touch</a></h5>
+
+                                                        
+                                                   
+                                                    </div> 
+                                                    <div class="col-sm-3">
+                                                       <img src="https://iul.ac.in/img/Admission21212.jpg" class="img-responsive hidden-xs" alt="Admission" />
+                                                     </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                   <li class="dropdown use-yamm yamm-fw">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academic<b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="yamm-content">
+                                                <div class="row">
+                                                    <div class="col-sm-2">
+                                                        <img src="img/Menu/Academic.png" class="img-responsive hidden-xs" alt="" style="width:120px; height:120px;"/>
+                                                    </div>
+                                                    <div class="col-sm-3">                                                       
+                                                        <ul>
+                                                           
+                                                            <li><a href="Academic_Calendar.aspx">Academic Calendar</a></li>
+                                                            <li><a href="Mooc.aspx">MOOC<span style="text-transform:capitalize">s</span></a></li>
+                                                           
+                                                        </ul>
+                                                    </div>
+                                                     <div class="col-sm-3">                                                       
+                                                        <ul>
+                                                           
+                                                            <li><a href="https://iul.ac.in/exam/index.aspx">Examinations</a></li>
+                                                           
+                                                            <li><a href="BasicSkillCourses.aspx">Basic Skill Courses<span style="text-transform:capitalize"></span></a></li> 
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                   <li class="dropdown use-yamm yamm-fw">
+                                    <a href="https://iul.ac.in/admissioninfo/FeeInd.aspx">Programs</a>
+                              
+                                </li> 
+                                 <li class="dropdown use-yamm yamm-fw">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Faculties<b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="yamm-content">
+                                                <div class="row">
+                                                    <div class="col-sm-3">
+                                                        <img src="img/Menu/Faculties.png" style="width:250px; height:250px;" class="img-responsive hidden-xs" alt="" />
+                                                    </div>
+                                                    <div class="col-sm-3">                                                       
+                                                        <h5> <a href="Department/Agriculture.aspx">AGRICULTURAL SCIENCE  & TECHNOLOGY</a> </h5>
+                                                        <h5> <a href="Department/Architecture.aspx">ARCHITECTURE, PLANNING & DESIGN</a> </h5>
+                                                        <h5> <a href="Department/Management.aspx">COMMERCE & MANAGEMENT</a> </h5>
+                                                        <h5> <a href="https://iul.ac.in/Department/Engineering.aspx">ENGINEERING & IT</a> </h5>
+                                                        <h5> <a href="Department/Education.aspx">EDUCATION</a> </h5>
+
+                                                    </div>
+                                                    <div class="col-sm-3">
+                                                        <h5> <a href="Department/HumanitiesSocialSciences.aspx">HUMANITIES & SOCIAL SCIENCES</a> </h5>                                                       
+                                                        <h5> <a href="Department/HealthMedical Sciences.aspx">HEALTH & MEDICAL SCIENCES</a> </h5>
+                                                        <h5> <a href="Department/Law.aspx">LAW</a> </h5>
+                                                        <h5> <a href="Department/Pharmacy.aspx">PHARMACY</a> </h5>
+                                                        <h5> <a href="Department/Nursing.aspx">NURSING</a> </h5>
+                                                   </div>
+                                                    <div class="col-sm-3">
+                                                        <h5> <a href="Department/Science.aspx">SCIENCE</a> </h5>
+                                                        <h5> <a href="Department/Department_AtoZ.aspx">Departments (A-Z)</a> </h5>
+                                                       
+                                                        
+                                                   </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown use-yamm yamm-fw">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="yamm-content">
+                                                <div class="row">
+                                                    <div class="col-sm-3">
+                                                        <img src="../img/Menu/Research.png" class="img-responsive hidden-xs" alt="" />
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <h5><a href="https://iul.ac.in/dsr/index.aspx">Doctoral Studies & Research</a></h5>
+                                                      
+                                                        <h5><a href="https://iul.ac.in/JP/Default.aspx">Journals & Publications</a></h5>
+                                                       
+                                                        <h5><a href="https://iul.ac.in/ResearchHighlights.aspx">Research Highlights</a></h5> 
+                                                    </div> 
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li> 
+
+                                <li class="dropdown use-yamm yamm-fw">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" >Students<b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="yamm-content">
+                                                <div class="row">
+                                                      <div class="col-sm-4">
+                                                        <img src="img/Menu/Students.png" class="img-responsive hidden-xs" alt="" />
+                                                    </div>
+                                                    <div class="col-sm-3">
+                                                        <h5>Student</h5>
+                                                        <ul>
+                                                            <li><a style="text-transform:capitalize" href="https://iul.ac.in/DSW/Home.aspx">Dean, Students' Welfare</a></li>
+                                                            <li><a style="text-transform:capitalize" >Event Calendar</a></li>
+                                                            <li><a style="text-transform:capitalize" href="Admissioninfo/index.aspx">Prospective Students</a></li>
+                                                            <li><a href="https://iul.ac.in/PB/Default.aspx">Proctor's Corner</a></li>															
+                                                        </ul>
+                                                         </div>
+                                                     <div class="col-sm-3">
+                                                        <h5>Societies</h5>
+                                                        <ul>
+                                                            <li><a style="text-transform:capitalize" href="https://iul.ac.in/Robotics/Default.aspx">Robotics</a></li>
+                                                            <li><a style="text-transform:capitalize" href="https://iul.ac.in/ledmac/index.html">LEDMAC Social Enterpreneurship Development Center</a></li>
+                                                            <li><a style="text-transform:capitalize" >High Note Music Society</a></li>
+															<li><a style="text-transform:capitalize"  href="https://iul.ac.in/Society/ConstitutionalLawSociety.aspx">Law Society</a></li>
+                                                        </ul>
+                                                    </div>
+                                                  <div class="col-sm-2">
+                                                        <h5>Downloads</h5>
+                                                        <ul>
+                                                            <li><a style="text-transform:capitalize" href="https://iul.ac.in/DepartmentsStudentZones.aspx">Syllabus, Ordinance & Time Table</a></li>
+                                                            <li><a style="text-transform:capitalize" href="Academic_Calendar.aspx">Academic Calendar</a></li>
+                                                        </ul>
+                                                  </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown use-yamm yamm-fw">
+                                  <a href='https://iul.ac.in/Admissioninfointernational/IndexInt.aspx'>International</a>
+                                </li> 
+                                 <li class="dropdown use-yamm yamm-fw">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources<b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                   <li>
+                                            <div class="yamm-content">
+                                                <div class="row">
+                                                    <div class="col-sm-3">
+                                                        <img src="../img/Menu/Resources.png" class="img-responsive hidden-xs" alt="" />
+                                                    </div>
+                                                    <div class="col-sm-3">
+                                                        <h5><a href="https://iul.ac.in/antiragging.aspx">Anti-Ragging Committee</a></h5>
+                                                        <h5><a href="https://library.iul.ac.in/">Central Library</a></h5>
+                                                        <h5><a href="https://iul.ac.in/ccgnd/Default.aspx">Center for Career Guidance & Development (CCG&D)</a></h5>
+                                                        <h5><a href="http://cied.iul.ac.in/" target="_blank">Center for Incubation and Entrepreneurship Development(CIED)</a></h5>
+                                                        <h5><a href="../DPR">Directorate of Planning & Research</a></h5>
+                                                        <h5><a href="https://iul.ac.in/exam/index.aspx">Examinations</a></h5>
+                                                    </div>
+                                                    <div class="col-sm-3">
+                                                        <h5><a href="https://iul.ac.in/DWC/News/fileupload/Academic/_Academic-Grievance_Cell_COVDI_19.pdf" target="_blank">Grievance Cell-COVID 19</a></h5>
+                                                        <h5><a href="https://iul.ac.in/HRDC/Default.aspx">Human Resource Development Center (HRDC)</a></h5>
+                                                        <h5><a href="https://iul.ac.in/iirc.aspx">Integral Information and Research Centre (IIRC)</a></h5>
+                                                        <h5><a href="../ITHD/Home.aspx">IT Helpdesk</a></h5>
+                                                        <h5><a href="https://iul.ac.in/iprmc.aspx">Intellectual Property Rights Management Cell (IPRMC)</a></h5>
+                                                        <h5><a href="https://iul.ac.in/iqac/Default.aspx">Internal Quality Assurance Cell</a></h5>
+                                                     
+                                                    </div>
+                                                    <div class="col-sm-3">
+                                                        <h5><a href="https://iul.ac.in/iucat/" target="_blank">INTEGRAL UNIVERSITY CENTER FOR ADVANCED TRAINING (IUCAT)</a></h5>
+                                                        <h5><a href="../OIR/">Office Of International Relations</a></h5>
+                                                         <h5><a href="https://iul.ac.in/sdc/default.aspx">Software Development Cell</a></h5>                                                       
+                                                        <h5><a href="https://iul.ac.in/WGCell/Default.aspx">Women Grievance Cell</a></h5>
+                                                        <h5><a href="https://iul.ac.in/WomenStudyCenter.aspx">Women Study Centre</a></h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                              
+                      
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- *** NAVBAR END *** -->
+    
+
+      <!-- *** Start Content PlaceHolder *** -->
+        <div>
+            
+    
+
+    
+
+    <section id="hid">
+        <div class="dark-mask">
+        </div>
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-12">
+                    
+                </div>
+                <div class="col-md-12">
+                    <h1 class="integral integralMedia" style="font-size: 10vw;">Integral</h1>
+                    <p class="textcenterzoom">
+                        <a href="https://admission.iul.ac.in/" class="btn btn-template-transparent-black btn-lgg">Apply Now <span id="ContentPlaceHolder1_lblYear">2022</span></a>&nbsp;
+                        <a href="#SliderSec" class="btn btn-template-transparent-black btn-lgg">Explore Integral</a>&nbsp;
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div></div>
+    </section>
+
+    
+
+    <!-- Start NUMBERS -->
+    <br />
+    <section class="bar background-pentagon background-pentagon-Media no-mb hidden-xs hidden-sm">
+        <div class="container">
+            <div class="row showcase" id="SliderSec">
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="item">
+                        <div class="icon"><i class="fa fa-list-ul"></i></div>
+                        <h4><span class="counter spanMedia">11</span><span style="font-size: 50px;"></span><br />
+                            Faculty</h4>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="item">
+                        <div class="icon"><i class="fa fa-university"></i></div>
+                        <h4><span class="counter spanMedia">25</span><span style="font-size: 50px;"></span><br />
+                            Departments</h4>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="item">
+                        <div class="icon"><i class="fa fa-certificate"></i></div>
+                        <h4><span class="counter spanMedia">120</span><span style="font-size: 50px;">+</span><br />
+                            Programs</h4>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="item">
+                        <div class="icon">
+                            <i class="fa fa-building"></i>
+                        </div>
+                        <h4><span class="counter spanMedia">2500</span><span style="font-size: 50px;">+</span><br />
+                            Hostellers</h4>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="item">
+                        <div class="icon">
+                            <i class="fa fa-users"></i>
+                        </div>
+                        <h4><span class="counter spanMedia">12000</span><span style="font-size: 50px;">+</span><br />
+                            Students</h4>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="item">
+                        <div class="icon"><i class="fa fa-mortar-board"></i></div>
+                        <h4><span class="counter spanMedia">35000</span><span style="font-size: 50px;">+</span><br />
+                            Alumni</h4>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    <section class="bar background-pentagon background-pentagon-Media no-mb visible-xs visible-sm">
+        <div class="container">
+            <div class="row showcase">
+                <div class="col-md-3 col-sm-4 col-xs-6">
+                    <div class="item itemmedia">
+                        <div class="icon"><i class="fa fa-list-ul"></i></div>
+                        <h4><span class="counter spanMedia">11</span><span style="font-size: 35px;"></span><br />
+                            Faculty</h4>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4 col-xs-6">
+                    <div class="item itemmedia">
+                        <div class="icon"><i class="fa fa-university"></i></div>
+                        <h4><span class="counter spanMedia">25</span><span style="font-size: 35px;"></span><br />
+                            Departments</h4>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4 col-xs-6">
+                    <div class="item itemmedia">
+                        <div class="icon"><i class="fa fa-certificate"></i></div>
+                        <h4><span class="counter spanMedia">120</span><span style="font-size: 35px;">+</span><br />
+                            Programs</h4>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4 col-xs-6">
+                    <div class="item itemmedia">
+                        <div class="icon">
+                            <i class="fa fa-building"></i>
+                        </div>
+                        <h4><span class="counter spanMedia">2500</span><span style="font-size: 35px;">+</span><br />
+                            Hostellers</h4>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-4 col-xs-6">
+                    <div class="item itemmedia">
+                        <div class="icon">
+                            <i class="fa fa-users"></i>
+                        </div>
+                        <h4><span class="counter spanMedia">12000</span><span style="font-size: 35px;">+</span><br />
+                            Students</h4>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4 col-xs-6">
+                    <div class="item itemmedia">
+                        <div class="icon"><i class="fa fa-mortar-board"></i></div>
+                        <h4><span class="counter ">35000</span><span style="font-size: 35px;">+</span><br />
+                            Alumni</h4>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- End Numbers -->
+    <div>
+        <br style="display: none;" />
+        <br style="display: none;" />
+        <br style="display: none;" />
+
+    </div>
+    <!--Start YouTube Link-->
+    <section id="YouTubeLink" class="bar background-white no-mb">
+        <div class="container">
+
+            <div class="heading text-center">
+                <h2 class="headingcolor">Explore the University</h2>
+            </div>
+            <div id="news-slider5" class="owl-carousel">
+                <div class="post-slide8">
+                    <div class="post-img">
+                        <div class="embed-responsive embed-responsive-4by3">
+                            <iframe src="https://www.youtube.com/embed/M7kO1xHldvc" class="embed-responsive-item" allowfullscreen="" loading="lazy" defer=""></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="post-slide8">
+                    <div class="post-img">
+                        <div class="embed-responsive embed-responsive-4by3">
+                            <iframe src="https://www.youtube.com/embed/SI63gq5ZvHM" class="embed-responsive-item" allowfullscreen="" loading="lazy" defer=""></iframe>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="post-slide8">
+                    <div class="post-img">
+                        <div class="embed-responsive embed-responsive-4by3">
+                            <iframe src="https://www.youtube.com/embed/9bjqTwbAgS8" class="embed-responsive-item" allowfullscreen="" loading="lazy" defer=""></iframe>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="post-slide8">
+                    <div class="post-img">
+                        <div class="embed-responsive embed-responsive-4by3">
+                            <iframe src="https://www.youtube.com/embed/vUZ5YfLqJHg" class="embed-responsive-item" allowfullscreen="" loading="lazy" defer=""></iframe>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="post-slide8">
+                    <div class="post-img">
+                        <div class="embed-responsive embed-responsive-4by3">
+                            <iframe class="embed-responsive-item" src="AdmissionInfo/docs/Virtual_Tour/index.html" allowfullscreen style="width: 100%;"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End YouTube Link-->
+    <!--Start INSPIRING EXCELLENCE-->
+    <section class="INSPIRING">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="img-responsive">
+                        <img src="img/IU_InspiringExcellence.png?format=webp" alt="" class="img-responsive" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="INSPIRESEXCELLENCE">
+                        <h2>Integral University</h2>
+                        <span>INSPIRES EXCELLENCE</span>
+                        <br />
+                        <span>In You!</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End INSPIRING EXCELLENCE-->
+    <!--Start Integral Times -->
+    <section class="bar background-white no-mb">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="heading text-center">
+                        <h2 style="color: #820000;">INTEGRAL TIMES</h2>
+                    </div>
+                    <h3 style="text-align: center; color: black;"><span>Latest news from Integral. Occasions that keep our campus vibrant.</span></h3>
+                    <div id="news-slider1" class="owl-carousel">
+                        
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/GoaDeclaration2022coverphoto.jpeg" />
+                                        <a href="https://iul.ac.in/Times/Event/GoaDeclaration2022.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_0">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/GoaDeclaration2022.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_0">PACT2030</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_0"> Integral University signed the historic "Goa Declaration"</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/GoaDeclaration2022.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/iirf_cover.JPG" />
+                                        <a href="https://iul.ac.in/Times/Event/Proud_moment_for_Integral_IIRF.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_1">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Proud_moment_for_Integral_IIRF.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_1">Proud moment for Integral</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_1">Faculty of Architecture, Planning & Design and Faculty of Law ranked by IIRF</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Proud_moment_for_Integral_IIRF.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/img/events/CoverWomensDay.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/InternationalWomensDay2022.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_2">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/InternationalWomensDay2022.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_2">International Women’s Day 2022</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_2">This International Women’s Day, let’s claim “Gender equality today for a sustainable tomorrow”.</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/InternationalWomensDay2022.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://fiesta.iul.ac.in/assets/images/Logo2022.png" />
+                                        <a href="https://iul.ac.in/Times/Event/Fiesta2022.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_3">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Fiesta2022.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_3">Fiesta 2022</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_3">After 2 years, Fiesta 2022 opens at Integral University on a celebratory note</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Fiesta2022.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/img/events/WorldWildlifeDay2022cover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/World_Wildlife_Day_2022.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_4">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/World_Wildlife_Day_2022.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_4">World Wildlife Day 2022</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_4">Save wildlife to save this world</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/World_Wildlife_Day_2022.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/73rdCover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/73rd_Republic_Day.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_5">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/73rd_Republic_Day.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_5">73rd Republic Day</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_5">Freedom in mind and pride in hearts of Integralites</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/73rd_Republic_Day.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/MouSigningCover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/Mou_signing_ceremony.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_6">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Mou_signing_ceremony.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_6">Mou signing Ceremony</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_6">Integral University has signed a MOU with SKUAST-K to expand agricultural studies</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Mou_signing_ceremony.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/times/images/MushairaCover2021.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/Shaam_e_Integral_2021.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_7">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Shaam_e_Integral_2021.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_7">Shaam-e-Integral</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_7">Integral hosted an All India Mushaira.</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Shaam_e_Integral_2021.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/XIIIConvocationCover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/XIII_Convocation.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_8">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/XIII_Convocation.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_8">XIII Convocation</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_8">Education is not preparation for life; education is life itself</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/XIII_Convocation.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/MouCover2021.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/MOU_BETWEEN_INTEGRAL_UNIVERSITY.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_9">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/MOU_BETWEEN_INTEGRAL_UNIVERSITY.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_9">Mou Signing</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_9">A Memorandum of Understanding (MoU) inked between Integral University and the ICAR-National Bureau of Fish Genetic Resources, Lucknow.</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/MOU_BETWEEN_INTEGRAL_UNIVERSITY.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/CoverOrientation2021.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/Orientation_Program_2021.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_10">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Orientation_Program_2021.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_10">Orientation Program 2021</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_10">The 2021 Orientation program was successfully organised by Integral University</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Orientation_Program_2021.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/AwardCover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/Certificate_of_Excellence_award.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_11">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Certificate_of_Excellence_award.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_11">Certificate of Excellence awarded to Integral University</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_11">Integral University receives The Times of India Edu Icons Award for outstanding Contribution in the Field of Education through innovation, leadership & dedication.</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Certificate_of_Excellence_award.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/FoundationDaycover2021.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/29th_Foundation_Day.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_12">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/29th_Foundation_Day.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_12">29th Foundation Day Celebration</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_12">With great zeal and enthusiasm, Integral celebrated its 29th Foundation Day.</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/29th_Foundation_Day.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/ConsellingCover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/Career_Counselling_2021_MBBS_Students.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_13">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Career_Counselling_2021_MBBS_Students.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_13">Career Counselling 2021 (MBBS Students)</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_13">Ability is what you’re capable of doing. Motivation determines what you do. Attitude determines how well you do it.</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Career_Counselling_2021_MBBS_Students.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/GambiaCover11th.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/A_Talk_on_Indo_Gambian_Bilateral_Relations.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_14">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/A_Talk_on_Indo_Gambian_Bilateral_Relations.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_14">A Talk on “Indo-Gambian Bilateral Relations”</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_14">Integral University hosted a talk on Indo-Gambian relations by H.E. Mr. Mustapha Jawara, High Commissioner of the Republic of Gambia</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/A_Talk_on_Indo_Gambian_Bilateral_Relations.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/PMCover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/A_alk_on_Personalized_Medicine.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_15">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/A_alk_on_Personalized_Medicine.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_15">A talk on Personalized Medicine (PM), Genetics & Cancer</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_15">An Invited Talk was delivered by Prof. Sher Ali, Distinguished Professor, Department of Life Sciences, Sharda University, Greater Noida</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/A_alk_on_Personalized_Medicine.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/NGO_Cover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/Alumni_Interaction_Programme.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_16">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Alumni_Interaction_Programme.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_16">Alumni Interaction Programme on NGO’s role during Covid-19</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_16">Alumni Welfare Association of Integral University (AWAIU) in association with Integral University Social Services (IUSS) has organized an Alumni Interaction Program</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Alumni_Interaction_Programme.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/IconsHealthCover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/Icons_of_Health_2021_Award.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_17">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Icons_of_Health_2021_Award.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_17">Icons of Health 2021 Award</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_17">Certificate of Excellence Awarded to Integral Institute of Medical Sciences & Research ( IIMS&R) for its contribution towards Covid Management</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Icons_of_Health_2021_Award.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/NigeriaIndiaCover.jpg" />
+                                        <a href="https://iul.ac.in/Times/Event/A_Talk_On_Africa_India_Relations.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_18">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/A_Talk_On_Africa_India_Relations.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_18">A talk on Nigeria-India Relations</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_18">His Excellency Mr. Ahmed Sule,The High Commissioner of Nigeria to India delivered a Talk on Nigeria- India Relations.</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/A_Talk_On_Africa_India_Relations.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+                                <div class="post-slide8">
+                                    <div class="post-img">
+
+                                        <img alt="" style="height: 238px; width: 100%;" class="img-responsive" src="https://iul.ac.in/Times/images/CovidC4.JPG" />
+                                        <a href="https://iul.ac.in/Times/Event/Covid_Relief_Committee_Meeting.aspx">
+                                            <div class="over-layer">
+                                                <ul class="post-link">
+                                                    <span class="month-times" style="background-color: #b50000; color: white;">
+                                                        <span id="ContentPlaceHolder1_repeaterTimes_Label6_19">Event</span></span>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="post-content-Times">
+                                        <h3 class="post-title-Times">
+                                            <a href="https://iul.ac.in/Times/Event/Covid_Relief_Committee_Meeting.aspx">
+                                                <span id="ContentPlaceHolder1_repeaterTimes_lblTitle_19">Covid Relief Committee Meeting</span>
+                                            </a>
+                                        </h3>
+                                        <p class="post-description-times">
+                                            <span id="ContentPlaceHolder1_repeaterTimes_LabelDis_19">Integral University proudly hosted the second meeting of the Covid Relief Committee</span>
+                                        </p>
+                                        <a href="https://iul.ac.in/Times/Event/Covid_Relief_Committee_Meeting.aspx" class="read-more-times">read more</a>
+                                    </div>
+                                </div>
+                            
+
+
+                        
+                    </div>
+                </div>
+
+            </div>
+            <div class="content" style="text-align: center;">
+                <p class="read-more"><a href="Times/Home.aspx" class="btn btn-template-main">Continue reading</a></p>
+            </div>
+        </div>
+
+    </section>
+
+    <!--End Integral Times -->
+
+    <!--Start Event -->
+    <section class="bar no-mb" style="background-color: #38363b;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="heading text-center">
+                        <h2 style="color: white;">INTEGRAL EVENTS</h2>
+                    </div>
+                    <h3 style="text-align: center; color: white;"><span>Upcoming. Interesting. Engaging.</span></h3>
+                    
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="news-slider8" class="owl-carousel">
+                                    
+                                            <div class="post-slide8">
+                                                <div class="post-img">
+                                                    <img alt="" style="height: 300px; width: 500px;" class="img-responsive" src="https://iul.ac.in/img/events/Lecture_Blue-Focus-Marketing.jpg" onerror="this.src='img/BlurredLogoNew.jpg';" />
+                                                    <div class="over-layer">
+                                                        <ul class="post-link">
+                                                            <span class="month" style="background-color: #b50000; color: white;">
+                                                                <span id="ContentPlaceHolder1_repeaterEvents_Label6_0">Event</span></span>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="post-date">
+                                                        <span class="date">
+                                                            <span id="ContentPlaceHolder1_repeaterEvents_Label5_0">22 </span></span>
+                                                        <span class="month">
+                                                            <span id="ContentPlaceHolder1_repeaterEvents_Label7_0">Apr</span></span>
+                                                    </div>
+                                                </div>
+                                                <div class="post-content">
+                                                    <h3 class="post-title" style="height: 100px;">
+                                                        <a href="https://iul.ac.in/Guest_Lecture_on_Micro_Teaching.aspx" target="_blank">
+                                                            <span id="ContentPlaceHolder1_repeaterEvents_lblTitle_0">Guest Lecture on Micro-Teaching </br> </br></br></br> </br></span></a>
+                                                    </h3>
+                                                    <p class="post-description">
+                                                        
+                                                    </p>
+                                                    <a href="https://iul.ac.in/Guest_Lecture_on_Micro_Teaching.aspx" class="read-more" target="_blank">read more</a>
+                                                </div>
+                                            </div>
+                                        
+                                            <div class="post-slide8">
+                                                <div class="post-img">
+                                                    <img alt="" style="height: 300px; width: 500px;" class="img-responsive" src="DWC/Events/images/Planning & Research-132953555404452826seedDaycreative.jpeg" onerror="this.src='img/BlurredLogoNew.jpg';" />
+                                                    <div class="over-layer">
+                                                        <ul class="post-link">
+                                                            <span class="month" style="background-color: #b50000; color: white;">
+                                                                <span id="ContentPlaceHolder1_repeaterEvents_Label6_1">Event</span></span>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="post-date">
+                                                        <span class="date">
+                                                            <span id="ContentPlaceHolder1_repeaterEvents_Label5_1">26 </span></span>
+                                                        <span class="month">
+                                                            <span id="ContentPlaceHolder1_repeaterEvents_Label7_1">Apr</span></span>
+                                                    </div>
+                                                </div>
+                                                <div class="post-content">
+                                                    <h3 class="post-title" style="height: 100px;">
+                                                        <a href="https://iul.ac.in/UpcomingEvents.aspx?e=HyKqs02riRXI2LyI2899zw==" target="_blank">
+                                                            <span id="ContentPlaceHolder1_repeaterEvents_lblTitle_1">International Seeds Day</span></a>
+                                                    </h3>
+                                                    <p class="post-description">
+                                                        
+                                                    </p>
+                                                    <a href="https://iul.ac.in/UpcomingEvents.aspx?e=HyKqs02riRXI2LyI2899zw==" class="read-more" target="_blank">read more</a>
+                                                </div>
+                                            </div>
+                                        
+                                </div>
+                                <div class="content" style="text-align: center;">
+                                    <h3 class="post-title" style="color: white;"><b>You are invited.</b></h3>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!--End Event -->
+
+    <!--START NOTICE BOARD-->
+    <section class="bar background-white no-mb">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="heading" style="text-align: center;">
+                        <h2 style="color: crimson;">NOTICE BOARD</h2>
+                    </div>
+                    <h3 style="text-align: center;"><span class="accent" style="color: black!important;">Regular updates to keep you moving.</span></h3>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-4">
+                    <div class="box">
+                        <div class="heading">
+                            <center>
+                               <h2 style="color: crimson;text-transform: none!important;">General</h2>
+                           </center>
+                        </div>
+                        <ul class="ul-icons" style="height: 325px;">
+                            
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterNews_lbllst_0">16/04/2022</span>:</strong>
+                                        <a href="https://iul.ac.in/DWC/News/fileupload/Academic/_Academic-Adv. Pharmacy.pdf" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterNews_lblmob_0">Position Vacant for Associate Professor and Assistant Professor in the Department of Pharmacy</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterNews_lbllst_1">08/11/2021</span>:</strong>
+                                        <a href="https://iul.ac.in/DWC/News/fileupload/Academic/_Academic-Notice for MBBS Students.pdf" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterNews_lblmob_1">Notice for 1st Year MBBS students of sesssion 2020-21</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterNews_lbllst_2">04/08/2021</span>:</strong>
+                                        <a href="https://iul.ac.in/DWC/News/fileupload/Academic/NET_Letter.pdf" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterNews_lblmob_2">Extension of Period for Completion of Master's Degree for December 2018 and June 2019 NET</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterNews_lbllst_3">17/05/2021</span>:</strong>
+                                        <a href="https://iul.ac.in/DWC/News/fileupload/Academic/_Academic-NOTICE_COVID_TASK_FORCE_17_05_2021.pdf" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterNews_lblmob_3">Formation of  IU-COVID Task Force</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterNews_lbllst_4">16/02/2021</span>:</strong>
+                                        <a href="https://iul.ac.in/DWC/News/fileupload/Academic/_Academic-ADVERTISEMENT FOR INTERNSHIP.pdf" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterNews_lblmob_4">ADVERTISEMENT FOR INTERNSHIP POSITION IN SERB-DST FUNDED PROJECT</span>
+                                        </a>
+                                    </li>
+                                
+                        </ul>
+                        <div class="content" style="text-align: center;">
+                            <p class="read-more"><a href="noticeboard.aspx?ActivePanel=General" class="btn btn-template-main">Continue reading</a></p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-4">
+                    <div class="box">
+                        <div class="heading">
+                            <center>
+                                  <h2 style="color: crimson;text-transform: none!important;">Examination</h2>
+                             </center>
+                        </div>
+                        <ul class="ul-icons" style="height: 325px;">
+                            
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label1_0">25/04/2022</span>:</strong>
+                                        <a href="https://iul.ac.in/DWC/Notice/fileupload/Examination/20220425153415773Notice for Scrutiny of MBBS 1st professional and 2nd professionsl suppl..pdf" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label2_0">Scrutiny Notice : M.B.B.S First Professional(Batch 2020 Supplementary),Second Professional (Batch 2019 Supplementary) Examination.</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label1_1">16/04/2022</span>:</strong>
+                                        <a href="http://results.iul.ac.in/MBBS.aspx" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label2_1">Result:M.B.B.S. First Professional Supplementary Examination, 2021-22</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label1_2">12/04/2022</span>:</strong>
+                                        <a href="http://results.iul.ac.in/MBBS.aspx" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label2_2">Result:M.B.B.S Second Professional Supplementary Examination 2021-22</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label1_3">26/03/2022</span>:</strong>
+                                        <a href="http://results.iul.ac.in/MBBS.aspx" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label2_3">Result:M.B.B.S Third Professional (Part II) Examination 2021-22</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label1_4">21/03/2022</span>:</strong>
+                                        <a href="http://results.iul.ac.in/MBBS.aspx" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterExamination_Label2_4">Result:M.B.B.S Third Professional(Part-I) Examination, 2021-22</span>
+                                        </a>
+                                    </li>
+                                
+                        </ul>
+                        <div class="content" style="text-align: center;">
+                            <p class="read-more"><a href="https://iul.ac.in/exam/Notices.aspx" class="btn btn-template-main">Continue reading</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="box">
+                        <div class="heading">
+                            <center>
+                                <h2 style="color: crimson;text-transform: none!important;">Admission</h2>
+                             </center>
+                        </div>
+                        <ul class="ul-icons" style="height: 325px;">
+                            
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label3_0">13/10/2021</span>:</strong>
+                                        <a href="https://iul.ac.in/Admission/Getphdresult.aspx" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label4_0">Interview Result for Admission in Ph.D. for the Session 2021-22</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label3_1">08/10/2021</span>:</strong>
+                                        <a href="https://iul.ac.in/Admission/GetNursingResult.aspx" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label4_1">Click to check the Entrance Test Result for Bachelor of Science in Nursing - (Basic) </span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label3_2">04/10/2021</span>:</strong>
+                                        <a href="https://iul.ac.in/Admission/GetCounsellingLetter.aspx" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label4_2">Click to download Counselling Letter for Basic Nursing Post Basic & ANM-2021</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label3_3">03/10/2021</span>:</strong>
+                                        <a href="https://iul.ac.in/Admission/GetAdmitCard.aspx" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label4_3">Click to download Admit Card for Nursing Entrance Test (IUET-2021)</span>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <strong>
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label3_4">17/09/2021</span>:</strong>
+                                        <a href=" https://iul.ac.in/Admission/PharmacyResult.aspx" target="_blank" style="color: #38363b;">
+                                            <span id="ContentPlaceHolder1_repeaterAdmission_Label4_4">Pharmacy Result 2021</span>
+                                        </a>
+                                    </li>
+                                
+                        </ul>
+                        <div class="content" style="text-align: center;">
+                            <p class="read-more"><a href="noticeboard.aspx?ActivePanel=Admission" class="btn btn-template-main">Continue reading</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--END NOTICE BOARD-->
+
+
+
+
+
+    <!--Start Research-->
+    <section class="bar background-gray no-mb" style="background-color: #eeeeee">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="heading text-center">
+                        <h2 class="headingcolor">Latest works from Research</h2>
+                    </div>
+                    <div id="news-slider2" class="owl-carousel">
+                        <div class="post-slide8">
+                            <div class="post-img">
+                                <img class="img-responsive" src="img/Research/Elephant.jpg?format=webp" alt="Wildlife Safety" style="height: 238px; width: 100%;" />
+                            </div>
+                            <div class="post-content-research">
+                                <h3 class="post-title-Times">
+                                    <a href="https://iul.ac.in/Research/WildlifeSafety.aspx">WILDLIFE SAFETY</a>
+                                </h3>
+                                <p class="post-description-times">
+                                    Integral Faculty develop a system towards Wildlife safety
+                                </p>
+                                <a href="https://iul.ac.in/Research/WildlifeSafety.aspx" class="read-more-times">read more</a>
+                            </div>
+                        </div>
+                        <div class="post-slide8">
+                            <div class="post-img">
+                                <img class="img-responsive" src="img/Research/BrainTumor.jpg?format=webp" alt="Brain Tumor" style="height: 238px; width: 100%;" />
+
+                            </div>
+                            <div class="post-content-research">
+                                <h3 class="post-title-Times">
+                                    <a href="https://iul.ac.in/Research/BrainTumors.aspx">BRAIN TUMOR</a>
+                                </h3>
+                                <p class="post-description-times">
+                                    Algorithm to help in the early detection of Brain Tumors
+                                </p>
+                                <a href="https://iul.ac.in/Research/BrainTumors.aspx" class="read-more-times">read more</a>
+                            </div>
+                        </div>
+                        <div class="post-slide8">
+                            <div class="post-img">
+                                <img class="img-responsive" src="img/Research/Endosomally.jpg?format=webp" alt="Endosomally Localized" style="height: 238px; width: 100%;" />
+
+                            </div>
+                            <div class="post-content-research">
+                                <h3 class="post-title-Times">
+                                    <a href="https://iul.ac.in/Research/PreetiBajpai.aspx">ENDOSOMALLY LOCALIZED</a>
+                                </h3>
+                                <p class="post-description-times">
+                                    Targeting endosomally localized toll like receptors by Dectin 1 agonist nano vehicles
+                                </p>
+                                <a href="https://iul.ac.in/Research/PreetiBajpai.aspx" class="read-more-times">read more</a>
+                            </div>
+                        </div>
+                        <div class="post-slide8">
+                            <div class="post-img">
+                                <img alt="" class="img-responsive" src="img/Research/Nigella.JPG?format=webp" style="height: 238px; width: 100%;" />
+
+                            </div>
+                            <div class="post-content-research">
+                                <h3 class="post-title-Times">
+                                    <a href="https://iul.ac.in/Research/DrIffatZareen.aspx">NIGELLA SATIVA</a>
+                                </h3>
+                                <p class="post-description-times">
+                                    Nigella sativa sprouts hold promise as a hepatoprotective agent
+                                </p>
+                                <a href="https://iul.ac.in/Research/DrIffatZareen.aspx" class="read-more-times">read more</a>
+                            </div>
+                        </div>
+                        <div class="post-slide8">
+                            <div class="post-img">
+                                <img class="img-responsive" src="img/Research/Anthraquinone.jpg?format=webp" alt="Anthraquinone Derivative" style="height: 238px; width: 100%;" />
+
+                            </div>
+                            <div class="post-content-research">
+                                <h3 class="post-title-Times">
+                                    <a href="https://iul.ac.in/Research/SnoberMir.aspx">ANTHRAQUIONONE DERIVATIVE</a>
+                                </h3>
+                                <p class="post-description-times">
+                                    An anthraquinone derivative found to inhibit protein aggregation in cancer.
+                                </p>
+                                <a href="https://iul.ac.in/Research/SnoberMir.aspx" class="read-more-times">read more</a>
+                            </div>
+                        </div>
+
+
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    
+    <!--END Research-->
+
+    <section class="bar background-image-fixed-33 no-mb color-white text-center">
+        <div class="dark-mask" style="opacity: 0.7;"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="icon icon-lg">
+                        <i class="fa fa fa-university"></i>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Start OUR STUDENTS AND ALUMNI-->
+    <section class="bar background-white no-mb">
+        <div class="container">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2 class="headingcolor">OUR STUDENTS AND ALUMNI</h2>
+                </div>
+                <h3 style="text-align: center;"><span class="accent">Our illustrious alumni, creating a difference around the world.</span></h3>
+                <div class="row">
+                    <div class="col-md-2 col-sm-3" data-animate="fadeInDown">
+                        <div class="team-member">
+                            <div class="image">
+                                <img style="border: 2PX solid #000;" alt="" class="img-responsive img-circle" src="img/Alumni/Renuka_Tripathi.bmp?format=webp" />
+                            </div>
+                            <h3>Renuka Tripathi</h3>
+                            <p class="role">
+                                <b>IRPS Officer
+                                    <br />
+                                    (Min. of Railway)</b>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-3">
+                        <div class="team-member" data-animate="fadeInDown">
+                            <div class="image">
+                                <img style="border: 2PX solid #000;" alt="" class="img-responsive img-circle" src="img/Alumni/Kriti_Jaiswal.jpg?format=webp" />
+                            </div>
+                            <h3>Kritika Jaiswal</h3>
+                            <p class="role">
+                                <b>IAS Batch of 2014
+                                    <br />
+                                    (All India Rank-778)</b>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-3" data-animate="fadeInDown">
+                        <div class="team-member">
+                            <div class="image">
+                                <img style="border: 2PX solid #000;" alt="" class="img-responsive img-circle" src="img/Alumni/AnjumAra.jpg?format=webp" />
+                            </div>
+                            <h3>Anjum Ara</h3>
+                            <p class="role">
+                                <b>IPS Batch of 2011
+                                    <br />
+                                    (All India Rank-408)</b>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-3" data-animate="fadeInDown">
+                        <div class="team-member">
+                            <div class="image">
+                                <img style="border: 2PX solid #000;" alt="" class="img-responsive img-circle" src="img/Alumni/MohdMohsinKhan.jpg?format=webp" />
+                            </div>
+                            <h3>Mohd. Mohsin Khan</h3>
+                            <p class="role">
+                                <b>Deputy Superintendent of
+                                    <br />
+                                    Police at U.P.</b>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-3" data-animate="fadeInDown">
+                        <div class="team-member">
+                            <div class="image">
+                                <img style="border: 2PX solid #000;" alt="" class="img-responsive img-circle" src="img/Alumni/SayedAliAbbas.jpeg?format=webp" />
+                            </div>
+                            <h3>Sayed Ali Abbas</h3>
+                            <p class="role">
+                                <b>UPSC Batch of 2017
+                                    <br />
+                                    (All India Rank-137)</b>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-3" data-animate="fadeInDown">
+                        <div class="team-member">
+                            <div class="image">
+                                <img style="border: 2PX solid #000;" alt="" class="img-responsive img-circle" src="img/Alumni/HarisSiddiqui.jpg?format=webp" />
+                            </div>
+                            <h3>Prof. (Dr.) Mohammed Haris Siddiqui</h3>
+                            <p class="role"><b>Director, Directorate of Admissions and Academics<br />
+                                Dean, Faculty of Agricultural Science & Technology</b></p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="content" style="text-align: center;">
+                    <p class="read-more"><a href="alumni.aspx" class="btn btn-template-main">SEE MORE ALUMNI</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End OUR STUDENTS AND ALUMNI-->
+
+    <!--Start TOP RECRUITERS-->
+    <section class="bar background-gray no-mb">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12" style="margin-top: -50px; margin-bottom: -50px;">
+                    <div class="heading text-center">
+                        <h2 class="headingcolorRECRUITERS">TOP RECRUITERS</h2>
+                    </div>
+                    <ul class="owl-carousel customers" style="float: none; text-align: justify;">
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Allana.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/tcs.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/OPPO_Logo.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/CSC.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Reliance-Jio-Logo.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Fresche-logo.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/infosys-logo-PNG.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Aon%20Hewitt.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Samsung_Logo.svg.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Amazon_logo.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Al%20Turah.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/daffodil.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Sopra%20Steria.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Ericsson.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/deloittelogo.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/DXC.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/Optmus.png?format=webp" />
+                        </li>
+                        <li class="item">
+                            <img alt="" class="img-responsive" src="img/Companies%20Logos/ANGLO%20EASTERN.png?format=webp" />
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--Start TOP RECRUITERS-->
+
+    <!-- Start Infrastructure -->
+    <section class="bar background-image-fixed-33 no-mb color-white text-center">
+        <div class="dark-mask" style="opacity: 0.7;"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="heading text-center">
+                        <h3>Integral Infrastructure</h3>
+                    </div>
+                    <ul class="owl-carousel testimonials same-height-row">
+                        <li style="padding: 5px;">
+                            <div class="testimonial same-height-always">
+                                <div class="text">
+                                    <div class="box-image-text blog">
+                                        <div class="top">
+                                            <div class="image">
+                                                <img alt="Acdemic Block 1" style="height: 250px; width: 285px;" class="img-responsive" src="img/Buildings/Academic Block-I.JPG?format=webp" />
+                                            </div>
+                                            <div class="bg"></div>
+                                            <div class="text">
+                                                <p class="buttons">
+                                                    Acdemic Block I<br />
+                                                    <a href="img/Buildings/Big/Academic Block-I.JPG" class="btn btn-template-transparent-primary" target="_blank"><i class="fa fa-image"></i>View Large</a>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li style="padding: 5px;">
+                            <div class="testimonial same-height-always">
+                                <div class="text" style="margin-bottom: -50px; text-align: center;">
+                                    <div class="box-image-text blog">
+                                        <div class="top">
+                                            <div class="image">
+                                                <img alt="Administrative Block" style="height: 250px; width: 285px;" class="img-responsive" src="img/Buildings/Administrative Block.JPG?format=webp" />
+                                            </div>
+                                            <div class="bg"></div>
+                                            <div class="text">
+                                                <p class="buttons">
+                                                    Administrative Block<br />
+                                                    <a href="img/Buildings/Big/Administrative Block.JPG" class="btn btn-template-transparent-primary" target="_blank"><i class="fa fa-image"></i>View Large</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li style="padding: 5px;">
+                            <div class="testimonial same-height-always">
+                                <div class="text" style="margin-bottom: -50px; text-align: center;">
+                                    <div class="box-image-text blog">
+                                        <div class="top">
+                                            <div class="image">
+                                                <img alt="Civil Block" style="height: 250px; width: 285px;" class="img-responsive" src="img/Buildings/Academic Block-II.jpg?format=webp" />
+                                            </div>
+                                            <div class="bg"></div>
+                                            <div class="text">
+                                                <p class="buttons">
+                                                    Academic Block II<br />
+                                                    <a href="img/Buildings/Big/Academic Block-II.jpg" class="btn btn-template-transparent-primary" target="_blank"><i class="fa fa-image"></i>View Large</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li style="padding: 5px;">
+                            <div class="testimonial same-height-always">
+                                <div class="text" style="margin-bottom: -50px; text-align: center;">
+                                    <div class="box-image-text blog">
+                                        <div class="top">
+                                            <div class="image">
+                                                <img alt="Medical Block" style="height: 250px; width: 285px;" class="img-responsive" src="img/Buildings/IIMS&R.JPG?format=webp" />
+                                            </div>
+                                            <div class="bg"></div>
+                                            <div class="text">
+                                                <p class="buttons">
+                                                    Administrative Block (IIMS&R)<br />
+                                                    <a href="img/Buildings/Big/IIMS&R.JPG" class="btn btn-template-transparent-primary" target="_blank"><i class="fa fa-image"></i>View Large</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li style="padding: 5px;">
+                            <div class="testimonial same-height-always">
+                                <div class="text" style="margin-bottom: -50px; text-align: center;">
+                                    <div class="box-image-text blog">
+                                        <div class="top">
+                                            <div class="image">
+                                                <img alt="Pharmacy Block" style="height: 250px; width: 285px;" class="img-responsive" src="img/Buildings/Pharmacy.jpg?format=webp" />
+                                            </div>
+                                            <div class="bg"></div>
+                                            <div class="text">
+                                                <p class="buttons">
+                                                    Pharmacy Block<br />
+                                                    <a href="img/Buildings/Big/Pharmacy.jpg" class="btn btn-template-transparent-primary" target="_blank"><i class="fa fa-image"></i>View Large</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                   
+                        <li style="padding: 5px;">
+                            <div class="testimonial same-height-always">
+                                <div class="text" style="margin-bottom: -50px; text-align: center;">
+                                    <div class="box-image-text blog">
+                                        <div class="top">
+                                            <div class="image">
+                                                <img alt="Library" style="height: 250px; width: 285px;" class="img-responsive" src="img/Buildings/Library -IIII.JPG?format=webp" />
+                                            </div>
+                                            <div class="bg"></div>
+                                            <div class="text">
+                                                <p class="buttons">
+                                                    Central Library<br />
+                                                    <a href="img/Buildings/Big/Library -IIII.JPG" class="btn btn-template-transparent-primary" target="_blank"><i class="fa fa-image"></i>View Large</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li style="padding: 5px;">
+                            <div class="testimonial same-height-always">
+                                <div class="text" style="margin-bottom: -50px; text-align: center;">
+                                    <div class="box-image-text blog">
+                                        <div class="top">
+                                            <div class="image">
+                                                <img alt="Girls Hostel" style="height: 250px; width: 285px;" class="img-responsive" src="img/Buildings/Girls Hostel.JPG?format=webp" />
+                                            </div>
+                                            <div class="bg"></div>
+                                            <div class="text">
+                                                <p class="buttons">
+                                                    Girls' Hostel<br />
+                                                    <a href="img/Buildings/Big/Girls Hostel.JPG" class="btn btn-template-transparent-primary" target="_blank"><i class="fa fa-image"></i>View Large</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li style="padding: 5px;">
+                            <div class="testimonial same-height-always">
+                                <div class="text" style="margin-bottom: -50px; text-align: center;">
+                                    <div class="box-image-text blog">
+                                        <div class="top">
+                                            <div class="image">
+                                                <img alt="Boys Hostel" style="height: 250px; width: 285px;" class="img-responsive" src="img/Buildings/Boys Hostel.JPG?format=webp" />
+                                            </div>
+                                            <div class="bg"></div>
+                                            <div class="text">
+                                                <p class="buttons">
+                                                    Boys' Hostel<br />
+                                                    <a href="img/Buildings/Big/Boys Hostel.jpg" class="btn btn-template-transparent-primary" target="_blank"><i class="fa fa-image"></i>View Large</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="see-more">
+                        <a href="https://iul.ac.in/Admissioninfo/Infrastructure.aspx" class="btn btn-template-main">See more of infrastructure</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Infrastructure -->
+
+
+
+
+    <!--Modalpop-->
+
+    
+    <!--Modalpop-->
+
+        </div>
+      <!-- *** End Content PlaceHolder ***-->
+     
+
+
+      <!-- *** FOOTER STARt *** -->
+        <footer id="footer">
+            <div class="container">
+                <div class="col-md-4 col-sm-6">
+                    <h3>About</h3>
+                    <p style="color:white; text-align:justify;"> 
+
+                            Integral University, a seat of educational excellence, is a premier university in Lucknow, the capital city of the state of Uttar Pradesh, India. It was established under Act Number 9 of 2004 by the State Government. The University is duly approved by the University Grants Commission (UGC) under sections 2(f) and 12B of the UGC Act, 1956, Medical Council of India, Pharmacy Council of India, Indian Nursing Council, Council of Architecture, Bar Council of India, Indian Association of Physiotherapists, National Council for Teacher Education, UP State Medical Faculty.
+                    <br />   Integral University is accredited by NAAC and recognized as a Scientific & Industrial Research Organisation (SIRO) by the Department of Scientific & Industrial Research, Ministry of Science & Technology, Government of India.
+
+
+                    </p>
+                     <hr class="hidden-md visible-lg hidden-sm" />
+                    
+                       <a href="Registration.aspx" class="btn btn-small btn-template-main">REGISTER YOUR INTEREST<i class="fa fa-send"></i></a>
+                       <hr class="hidden-md hidden-lg hidden-sm" />
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <h3>Our Links</h3>
+                    <div class="blog-entries" >
+                        <p>
+                            <a href="https://alumni.iul.ac.in/" style="color:white;">Alumni</a><br />
+                            <a href="https://iul.ac.in/amenities1.aspx"  style="color:white;">Amenities</a><br />
+                            <a href="https://iul.ac.in/career.aspx"  style="color:white;">Career</a><br />
+                            <a href="https://iul.ac.in/ccgnd/Default.aspx" style="color:white;">CCG&D</a><br />
+                            <a href="https://iul.ac.in/Disclaimer.aspx"  style="color:white;">Disclaimer</a><br />
+                            
+                            <a href="https://iul.ac.in/documents/naac/EvaluativeReport.pdf" style="color:white;">Evaluation Report of the Departments</a><br />
+                           
+                            <a href="https://iul.ac.in/admissioninfo/FeeInd.aspx"  style="color:white;">Fee Structure</a><br />
+                            <a href="https://iul.ac.in/fitness.aspx" style="color:white;">Fitness</a><br />
+                            <a href="https://iul.ac.in/gallery.aspx"  style="color:white;">Gallery</a><br />
+                            <a href="https://iul.ac.in/grievances/Default.aspx"  style="color:white;">Grievance Registration</a><br />
+                            <a href="https://iul.ac.in/PDF/InternationalBrochure.pdf" target="_blank" style="color:white;">Download International Brochure</a><br />
+                            <a href="https://iul.ac.in/hostel/index.aspx"  style="color:white;">Hostel</a><br />
+                            <a href="https://iul.ac.in/documents/ETNCER-16%20NEWS%20in%20IEEE%20R%2010%20NEWSLETTER%20(1).pdf" style="color:white;">IEEE Region-10 NewsLetter</a><br />
+                            </p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <h3></h3><br />
+                     <div class="blog-entries" >
+                        <p>
+
+                            <a href="https://iul.ac.in/iqac/Default.aspx"  style="color:white;">IQAC</a><br />
+                            <a href="https://library.iul.ac.in/"  target="_blank" style="color:white;">Library</a><br />
+                            <a href="https://iul.ac.in/NIRF.aspx"  style="color:white;">NIRF</a><br />
+                            <a href="https://iul.ac.in/documents/NewsLetter.pdf" style="color:white;" target="_blank">News Letter</a><br />
+                            <a href="https://iul.ac.in/newsletters.aspx" style="color:white;">News Letter (Archives)</a><br />
+                            <a href="https://iul.ac.in/PrivacyPolicy.aspx" style="color:white;">Policies</a><br />
+                            <a href="https://iul.ac.in/PDF/Prospectus_2021-22.pdf" style="color:white;" target="_blank">Prospectus 2021</a><br />
+                            <a href="https://iul.ac.in/ScholarshipCellZone.aspx"  style="color:white;" >Scholarship Cell </a><br />
+                            <a href="https://iul.ac.in/documents/naac/SSR.pdf"  style="color:white;" >Self Study Report </a><br />
+                            <a href="https://iul.ac.in/admissioninfo/sports.aspx"  style="color:white;" >Sports </a><br />
+                            <a href="http://sdc/ems/TelephoneDirectory.aspx"  style="color:white;" >Telephone Directory </a><br />
+                            <a href="https://iul.ac.in/Transport.aspx"  style="color:white;" >Transport Facilities </a><br />
+                            <a href="https://iul.ac.in/emailaccess/Default.aspx"  style="color:white;" >University e-mail Registration </a><br />
+                            <a href='https://play.google.com/store/apps/details?id=com.something.adilkhan.mytestapplication&hl=en_IN&showAllReviews=true&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                            <hr class="hidden-md visible-lg hidden-sm" />
+                             <span style="color:white;">Download Student App</span>
+                                <br />
+                                <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' class="img-responsive MobileApp"/>
+                            </a>
+                            </p>
+                     </div>
+                    <hr class="hidden-md hidden-lg hidden-sm" />
+                </div>
+              
+            </div>
+        </footer>
+      <!-- *** FOOTER END *** -->
+
+      <!-- *** COPYRIGHT START***-->
+        <div id="copyright">
+            <div class="container">
+                <div class="col-md-12">
+                    <p class="pull-left">&copy; 2019 Integral University. All Rights Reserved </p>
+                    <p class="pull-right"> Designed & Developed By : <a href="https://iul.ac.in/sdc/default.aspx" style="color:yellow" >Software Development Cell</a></p>
+
+                </div>
+            </div>
+        </div>
+      <!-- *** COPYRIGHT END***-->
+      
+  </div>
+ <div id="SocialBtn">
+        <div id="ApplyBtn" title="Apply Now"> <a href="../AdmissionForm.aspx" class="btn btn-template-primary applynow"><strong>Apply Now</strong></a></div>
+        <div id="WhatsApp" title="WhatsApp"> <a href="https://api.whatsapp.com/send?phone=919335177775" target="_blank" class="btn btn-template-primary" style="background-color:transparent; border:none;"><img src="img/Whatsapp.png" class="whatsappimg"/></a></div>
+        <div id="CallBtn" title="Call"> <a href="tel:+919335177775"  class="btn btn-template-primary" style="background-color:transparent; border:none;"><img src="img/call.png" class="messagenimg"/></a></div>
+   </div>
+         
+
+        
+ 
+    </form>
+   
+    <script type="text/javascript">
+
+        window.onscroll = function () {
+            scrollFunction();
+            scrollFunctions();
+        };
+        function scrollFunction() {
+            if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
+                document.getElementById("ApplyBtn").style.display = "block";
+                document.getElementById("WhatsApp").style.display = "block";
+                document.getElementById("CallBtn").style.display = "block";
+            } else {
+                document.getElementById("ApplyBtn").style.display = "block";
+                document.getElementById("WhatsApp").style.display = "block";
+                document.getElementById("CallBtn").style.display = "block";
+            }
+        }
+
+        function scrollFunctions() {
+            if (document.body.scrollTop > 25 || document.documentElement.scrollTop > 25) {
+                document.getElementById("myBtns").style.display = "block";
+            } else {
+                document.getElementById("myBtns").style.display = "none";
+            }
+        }
+
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+
+
+
+    </script>
+
+  <!-- #### JAVASCRIPT FILES ### -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>
+        window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')
+    </script>
+    <script src="bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="js/jquery.cookie.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <script src="js/jquery.parallax-1.1.3.js"></script>
+    <script src="js/front.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script type="text/javascript"> 
+        var baseUrl = './';
+    </script>
+    <script src='/js/CustomJS/JSUserAccessLog.js' type="text/javascript"></script>
+    <script src="js/Disablebrowserclick.js"></script>
+
+</body>
+</html>

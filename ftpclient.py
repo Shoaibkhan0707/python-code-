@@ -1,0 +1,10 @@
+import socket
+s=socket.socket()
+s.connect(('localhost',6769))
+filename=input('enter file name\n')
+s.send(filename.encode())
+content=s.recv(1024)
+print(content.decode())
+#file=open('ftp2.text','w')
+#file.write(content.decode())
+s.close()
